@@ -1,0 +1,11 @@
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\bin\Debug\trang chủ.exe.config
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\bin\Debug\trang chủ.exe
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\bin\Debug\trang chủ.pdb
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang chủ.csproj.AssemblyReference.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang chủ.csproj.SuggestedBindingRedirects.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang_chủ.Form1.resources
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang_chủ.Properties.Resources.resources
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang chủ.csproj.GenerateResource.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang chủ.csproj.CoreCompileInputs.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang chủ.exe
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\trang chủ\obj\Debug\trang chủ.pdb

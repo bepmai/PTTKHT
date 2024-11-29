@@ -1,0 +1,11 @@
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\bin\Debug\quanly.exe.config
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\bin\Debug\quanly.exe
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\bin\Debug\quanly.pdb
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.csproj.SuggestedBindingRedirects.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.Form1.resources
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.Properties.Resources.resources
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.exe
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\quanly\obj\Debug\quanly.pdb

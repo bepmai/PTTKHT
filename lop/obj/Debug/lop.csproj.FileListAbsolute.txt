@@ -1,0 +1,11 @@
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\bin\Debug\lop.exe.config
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\bin\Debug\lop.exe
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\bin\Debug\lop.pdb
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.csproj.AssemblyReference.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.csproj.SuggestedBindingRedirects.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.Form1.resources
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.Properties.Resources.resources
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.csproj.GenerateResource.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.csproj.CoreCompileInputs.cache
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.exe
+E:\HTTT1\Nam2\K2\PT HTTT\web hỗ trợ học trực tuyến\lop\lop\obj\Debug\lop.pdb
